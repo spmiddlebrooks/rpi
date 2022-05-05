@@ -1,4 +1,4 @@
-# RPi Model 3 & 4 - Piaware, dump1090-fa and dump978-fa arm64 / aarch64 packages for OS Bullseye
+# RPi Model 3 & 4 - Piaware, dump1090-fa and dump978-fa arm64 / aarch64 packages for Bullseye (Raspberry Pi OS, DietPi OS, Armbian OS)
 ### [Links to download 64-bit OS](https://github.com/abcd567a/rpi/blob/master/README.md#links-to-download-64-bit-os-)
 ## How To Install Piaware 7.2 arm64 Packages on Bullseye from this Personal Package Archive (PPA):
 
